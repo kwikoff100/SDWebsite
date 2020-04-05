@@ -606,7 +606,7 @@ section {
 
 .about .icon-box:hover .icon {
   background: #ffc904;
-  border-color: #000000;
+  border-color: #fff;
 }
 
 .about .icon-box:hover .icon i {
